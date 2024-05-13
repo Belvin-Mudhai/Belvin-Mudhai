@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
 - 🔭 I’m currently #doing_hard_things
-- 🌱 I’m learning data engineering and back-end development
+- 🌱 I’m learning data science, data engineering and back-end development
 - 👯 I’m looking to collaborate on data projects
 - 📫 How to reach me: belvin.bm@gmail.com
 - 😄 Pronouns: He/Him
