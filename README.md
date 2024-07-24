@@ -1,11 +1,11 @@
 ### Hi there 👋
 # 💫 About Me:
-- 🔭 I’m currently #doing_hard_things
-- 🌱 I’m learning data science, engineering and back-end development
+- 🔭 I’m currently #doinghardthings
+- 🌱 I’m learning statistics and math
 - 👯 I’m looking to collaborate on data projects
 - 📫 How to reach me: belvin.bm@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Entomologist
+- ⚡ Fun fact: an entomologist's apprentice
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belvin-mudhai-52207a180/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@belvin.bm)
