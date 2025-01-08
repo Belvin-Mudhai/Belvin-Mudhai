@@ -1,7 +1,7 @@
 ### Hi there 👋
 # 💫 About Me:
-- 🔭 I’m currently #doinghardthings
-- 🌱 I’m learning statistics and math
+- 🔭 I’m currently studying advanced learning algorithms
+- 🌱 I’m learning statistics in finance
 - 👯 I’m looking to collaborate on data projects
 - 📫 How to reach me: belvin.bm@gmail.com
 - 😄 Pronouns: He/Him
