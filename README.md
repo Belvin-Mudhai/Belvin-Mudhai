@@ -1,11 +1,11 @@
 ### Hi there 👋
 # 💫 About Me:
 - 🔭 I’m currently studying advanced learning algorithms
-- 🌱 I’m learning statistics in finance
+- 🌱 I’m in love with machine learning
 - 👯 I’m looking to collaborate on data projects
 - 📫 How to reach me: belvin.bm@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: an entomologist's apprentice
+- ⚡ Fun fact: there's never two many of you
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/belvin-mudhai/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@belvin.bm)
